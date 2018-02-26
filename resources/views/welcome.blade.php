@@ -5,7 +5,7 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
-        <title>goPWA - Progressive Web Apps Deutschland</title>
+        <title>- goPWA - Progressive Web Apps Deutschland</title>
 
         <!-- Fonts -->
         <link href="https://fonts.googleapis.com/css?family=Raleway:100,600" rel="stylesheet" type="text/css">
@@ -13,6 +13,7 @@
         <!-- Styles -->
         <style>
             html, body {
+
                 background-color: #fff;
                 color: #636b6f;
                 font-family: 'Raleway', sans-serif;
@@ -84,6 +85,7 @@
                 </div>
 
                 <div>
+                    <p></p>
 
                 </div>
             </main>
